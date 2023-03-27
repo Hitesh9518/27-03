@@ -1,0 +1,14 @@
+https://github.com/apiclub/apiclub-php-sdk
+https://apiclub.readme.io/reference/authentication
+https://prnt.sc/_A6gYGRVY82J
+https://api.apiclub.in/api/v1/fuel_info
+
+https://tarot-api.onrender.com/api/v1/cards
+Method = GET
+
+type
+name
+value
+meaning_up
+meaning_rev
+desc
